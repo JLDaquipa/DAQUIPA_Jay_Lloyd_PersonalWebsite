@@ -2,6 +2,7 @@ div.topdiv{
 	margin-top:-20px;
 	background-color: #293643;
 	height: 80px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 div.topdiv p{
@@ -57,4 +58,5 @@ div.bottomdiv{
 	background-color: #293643;
 	margin-top: 80px;
 	padding: 28px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
