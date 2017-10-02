@@ -21,7 +21,7 @@ div.btn{
 	
 }
 
-div.btn a:link{
+div.btn a:link, div.btn a:visited{
 	text-decoration:none;
 	text-align:center;
 	color: white;
@@ -29,12 +29,6 @@ div.btn a:link{
 	background-color: #232425;
 	padding: 33px;
 	margin-right: -2px;
-}
-
-div.btn a:visited{
-	color: black;
-	font-family: Agency FB;
-	background-color: #bdc3c7;
 }
 
 div.btn a:hover{
@@ -80,7 +74,7 @@ img {
 	height: 350px;
 }
 
-div.knowmebtn a:link{
+div.knowmebtn a:link, div.knowmebtn a:visited{
 	text-align:center;
 	text-decoration: none;
 	color: black;
