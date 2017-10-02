@@ -49,7 +49,18 @@ div.btn a:active{
 	margin-right: -2px;
 }
 
+div.body{
+	margin: 30px;
+  	background-color: #ffffff;
+  	border: 1px solid black;
+  	opacity: 0.6;
+  	filter: alpha(opacity=60);
+}
 
+div.body h1{
+	font-size:30px;
+	font-family:Agency FB;
+}
 
 
 div.bottomdiv{
