@@ -1,0 +1,60 @@
+div.topdiv{
+	margin-top:-20px;
+	background-color: #293643;
+	height: 80px;
+}
+
+div.topdiv p{
+	color: white;
+	background-color: #232425;
+	font-size:20px;
+	font-family: Trebuchet MS;
+	text-align: center;
+	width: 300px;
+	padding: 28px;
+}
+
+div.btn{
+	margin-left: 400px;
+	float:right;
+	margin-top: -70px;
+	
+}
+
+div.btn a:link , div.btn a:visited{
+	text-decoration:none;
+	text-align:center;
+	color: white;
+	font-family: Agency FB;
+	background-color: #232425;
+	padding: 33px;
+	margin-right: -2px;
+}
+
+
+div.btn a:hover{
+	color: black;
+	font-family: Agency FB;
+	background-color: #bdc3c7;
+}
+
+div.btn a:active{
+	text-decoration:none;
+	text-align:center;
+	color: white;
+	font-family: Agency FB;
+	background-color: #232425;
+	padding: 33px;
+	margin-right: -2px;
+}
+
+
+
+
+div.bottomdiv{
+	text-align: center;
+	color: white;
+	background-color: #293643;
+	margin-top: 80px;
+	padding: 28px;
+}
