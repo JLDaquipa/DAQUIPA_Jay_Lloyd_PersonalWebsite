@@ -71,6 +71,37 @@ div.ve_txt h1{
 	font-family: Agency FB;
 }
 
+div.ve_txt p{
+	font-family: Agency FB;
+	font-size: 18px;
+}
+
+div.picture_editing{
+	background-color: #ffffff;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding: 10px;
+	width: 800px;
+	height: 200px;
+	margin-left: 40px;
+}
+
+div.picture_editing img{
+	width: 200px;
+	height: 200px;
+	margin-left: 200px;
+}
+
+div.pe_txt{
+	float:left;
+	width:400px;
+}
+
+div.pe_txt h1{
+	text-align: right;
+	font-family: Agency FB;
+}
+
+
 div.bottomdiv{
 	text-align: center;
 	color: white;
