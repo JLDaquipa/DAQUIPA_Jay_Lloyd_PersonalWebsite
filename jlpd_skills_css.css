@@ -83,22 +83,29 @@ div.picture_editing{
 	width: 800px;
 	height: 200px;
 	margin-left: 40px;
+	margin-top: 30px;
 }
 
 div.picture_editing img{
 	width: 200px;
 	height: 200px;
-	margin-left: 200px;
+	float:right;
 }
 
 div.pe_txt{
-	float:left;
 	width:400px;
+	margin-left: 150px;
 }
 
 div.pe_txt h1{
 	text-align: right;
 	font-family: Agency FB;
+}
+
+div.pe_txt p{
+	text-align: right;
+	font-family: Agency FB;
+	font-size: 18px;
 }
 
 
