@@ -76,6 +76,8 @@ div.ve_txt p{
 	font-size: 18px;
 }
 
+/* -------------------------------- */
+
 div.picture_editing{
 	background-color: #ffffff;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -108,6 +110,36 @@ div.pe_txt p{
 	font-size: 18px;
 }
 
+/* -------------------------------- */
+
+div.programming {
+	background-color: #ffffff;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding: 10px;
+	width: 800px;
+	height: 200px;
+	margin-left: 40px;
+	margin-top: 30px;
+}
+
+div.programming img{
+	width: 200px;
+	height: 200px;
+	float:left;
+}
+
+div.prog_txt{
+	margin-left: 250px;
+}
+
+div.prog_txt h1{
+	font-family: Agency FB;
+}
+
+div.prog_txt p{
+	font-family: Agency FB;
+	font-size: 18px;
+}
 
 div.bottomdiv{
 	text-align: center;
