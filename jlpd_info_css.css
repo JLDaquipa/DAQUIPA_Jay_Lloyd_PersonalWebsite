@@ -54,11 +54,11 @@ div.body{
 	margin-top: 25px;
   	background-color: #ffffff;
   	border: 1px solid white;
-  	opacity: 0.8;
+  	opacity: 0.88;
   	filter: alpha(opacity=60);
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-	padding: 25px;
-	width:700px;
+	padding: 30px;
+	width:650px;
 }
 
 div.body h1{
@@ -81,7 +81,7 @@ div.body pre{
 img{
 	float:right;
 	width:523px;
-	height:812px;
+	height:820px;
 	margin-right: 30px;
 	margin-top:25px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
