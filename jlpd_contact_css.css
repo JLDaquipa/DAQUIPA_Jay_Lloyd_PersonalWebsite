@@ -52,7 +52,7 @@ div.fb {
 	background-color:white;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	float:left;
-	margin-left: 280px;
+	margin-left: 100px;
 }
 
 div.fb img{
@@ -66,14 +66,15 @@ div.fb p{
 	font-size:30px;
 	padding:10px;
 	border-top: 1px solid #7f8c8d;
-	height:3px;
+	height:5px;
 }
 
 div.google {
 	width:300px;
 	background-color:white;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-	margin-left:750px;
+	margin-left:100px;
+	float:left;
 }
 
 div.google img{
@@ -82,6 +83,27 @@ div.google img{
 }
 
 div.google p{
+	text-align:center;
+	font-family:Agency FB;
+	font-size:30px;
+	padding:10px;
+	border-top: 1px solid #7f8c8d;
+	height:5px;
+}
+
+div.number {
+	width:300px;
+	background-color:white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-left:900px;
+}
+
+div.nuber img{
+	width:300px;
+	height:300px;
+}
+
+div.number p{
 	text-align:center;
 	font-family:Agency FB;
 	font-size:30px;
