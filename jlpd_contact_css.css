@@ -47,6 +47,51 @@ p.contactme {
 	background-color: white;
 }
 
+div.fb {
+	width:300px;
+	background-color:white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	float:left;
+	margin-left: 280px;
+}
+
+div.fb img{
+	width:300px;
+	height:300px;
+}
+
+div.fb p{
+	text-align:center;
+	font-family:Agency FB;
+	font-size:30px;
+	padding:10px;
+	border-top: 1px solid #7f8c8d;
+	height:3px;
+}
+
+div.google {
+	width:300px;
+	background-color:white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-left:750px;
+}
+
+div.google img{
+	width:300px;
+	height:300px;
+}
+
+div.google p{
+	text-align:center;
+	font-family:Agency FB;
+	font-size:30px;
+	padding:10px;
+	border-top: 1px solid #7f8c8d;
+}
+
+a.fb_link{
+	color:black;
+}
 
 div.bottomdiv{
 	text-align: center;
