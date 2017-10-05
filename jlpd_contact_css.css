@@ -1,3 +1,10 @@
+div.container{
+	background-image:url(images/contact_bg.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	width:1340px;
+}
+
 div.topdiv{
 	margin-top:-20px;
 	background-color: #232425;
