@@ -1,6 +1,7 @@
 div.container{
 	background-image:url(images/skills_bg.jpg);
 	width:1340px;
+	background-size: cover;
 }
 
 
