@@ -2,7 +2,7 @@ div.container{
 	background-image: url(images/background.jpg);
 	background-repeat:no-repeat;
 	width:1340px;
-	height:650px;
+	margin:0 auto;
 }
 
 div.topdiv{
